@@ -1,2 +1,0 @@
-div#o{ -moz-border-radius:5px; -khtml-border-radius:5px; -webkit-border-radius:5px; border-radius:5px; background:#fff; position:fixed; padding:2px; bottom:0px; left:0px; width:58px; height:9px; background-image:url(http://static.tumblr.com/umenkf1/T6flpgemz/credit.gif);   background-repeat:no-repeat; opacity:1; -webkit-transition: all 0.7s ease-out; -moz-transition: all 0.7s ease-out; -o-transition: all 0.7s ease-out;}
-div#o:hover{opacity:0.1; -webkit-transition: all 0.1s ease-out; -moz-transition: all 0.1s ease-out; -o-transition: all 0.1s ease-out;}
